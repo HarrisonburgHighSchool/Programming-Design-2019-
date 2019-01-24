@@ -23,5 +23,5 @@ Ask someone what their name is, and store the answer in a variable called `var`
 var = input("What is your name?")
 ```
 
-Print the value of a variable called `var`
+Print the value of a variable called `var`.
 `print(var)`
