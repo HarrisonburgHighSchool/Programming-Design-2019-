@@ -1,10 +1,14 @@
 ### Python Basics
 
 Set the value of a variable to 3
-`variable = 3`
+```python
+variable = 3
+```
 
 Set the value of a variable to "Hello"
-`variable = "Hello"`
+```python
+variable = "Hello"
+```
 
 An `if` statement that returns `true`
 ```python
@@ -23,5 +27,7 @@ Ask someone what their name is, and store the answer in a variable called `var`
 var = input("What is your name?")
 ```
 
-Print the value of a variable called `var`.
-`print(var)`
+Print the value of a variable called `var`
+```python
+print(var)
+```
